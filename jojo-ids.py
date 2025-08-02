@@ -27,9 +27,9 @@ FILE_MONITOR_PATH = os.path.expanduser("/home/jojo/Downloads")  # Change as need
 # Email settings (use your real credentials here)
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_USER = "jojoids12@gmail.com"
-EMAIL_PASS = "oxvx ocjb ebqw ezkf"  
-EMAIL_RECEIVER = "jojoids12@gmail.com"
+EMAIL_USER = "j" as your
+EMAIL_PASS = "eqfigj hqyrihqohqgugf1111111111"  as t=your  
+EMAIL_RECEIVER = "as your"
 
 # Log file and database file
 LOG_FILE = "ids_alerts.log"
@@ -523,3 +523,4 @@ if __name__ == "__main__":
     print("[*] Initializing IDS...")
     init_db()
     build_gui()
+
